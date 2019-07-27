@@ -1,5 +1,5 @@
 # gameandmine
-Windows Python Script for gamers who wish to mine.
+Windows Python Script for gamers who wish to mine coins when their computer is idle.
 
 First Nicehash should be installed.
 Now considering the mining process will be operating on computer which will be heavily used for gaming, it is required the process is stopped when they are being used for gaming. So a python script will be used to automate the mining process by closing the mining process when a game is being played.
